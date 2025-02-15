@@ -1,2 +1,2 @@
-dste 
+date
 ls
