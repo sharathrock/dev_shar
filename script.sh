@@ -1,2 +1,2 @@
-This is my first script and i am testing now
-second added changes
+dste 
+ls
