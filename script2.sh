@@ -2,4 +2,4 @@ date
 ls
 echo "You have successfully executed the script"
 echo "automation "
-test
+echo " poll executed the test case"
